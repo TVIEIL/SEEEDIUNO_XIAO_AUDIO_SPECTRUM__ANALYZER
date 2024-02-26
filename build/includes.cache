@@ -1,0 +1,122 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Vieil\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\samd\\1.8.5\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Vieil\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\samd\\1.8.5\\variants\\XIAO_m0"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\GitHub\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER\\build\\sketch\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER.ino.cpp",
+    "Include": "arduinoFFT.h",
+    "Includepath": "C:\\Users\\Vieil\\Documents\\Arduino\\libraries\\arduinoFFT\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\GitHub\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER\\build\\sketch\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER.ino.cpp",
+    "Include": "SoftwareSerial.h",
+    "Includepath": "C:\\Users\\Vieil\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\samd\\1.8.5\\libraries\\SoftwareSerial"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\GitHub\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER\\build\\sketch\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\Vieil\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\samd\\1.8.5\\libraries\\SPI"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\GitHub\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER\\build\\sketch\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER.ino.cpp",
+    "Include": "Adafruit_ZeroDMA.h",
+    "Includepath": "C:\\Users\\Vieil\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\samd\\1.8.5\\libraries\\Adafruit_ZeroDMA"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\GitHub\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER\\build\\sketch\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER.ino.cpp",
+    "Include": "Adafruit_GFX.h",
+    "Includepath": "C:\\Users\\Vieil\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\GitHub\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER\\build\\sketch\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER.ino.cpp",
+    "Include": "Adafruit_I2CDevice.h",
+    "Includepath": "C:\\Users\\Vieil\\Documents\\Arduino\\libraries\\Adafruit_BusIO"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\GitHub\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER\\build\\sketch\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\Vieil\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\samd\\1.8.5\\libraries\\Wire"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\GitHub\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER\\build\\sketch\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER.ino.cpp",
+    "Include": "ILI9488.h",
+    "Includepath": "C:\\Users\\Vieil\\Documents\\Arduino\\libraries\\ILI9488-master"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\GitHub\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER\\build\\sketch\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\Arduino\\libraries\\arduinoFFT\\src\\arduinoFFT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\samd\\1.8.5\\libraries\\SoftwareSerial\\SoftwareSerial.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\samd\\1.8.5\\libraries\\SPI\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\samd\\1.8.5\\libraries\\Adafruit_ZeroDMA\\Adafruit_ZeroDMA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GFX.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GrayOLED.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_SPITFT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\glcdfont.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_I2CDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_SPIDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\AppData\\Local\\Arduino15\\packages\\Seeeduino\\hardware\\samd\\1.8.5\\libraries\\Wire\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Vieil\\Documents\\Arduino\\libraries\\ILI9488-master\\ILI9488.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

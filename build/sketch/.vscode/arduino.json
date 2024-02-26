@@ -1,0 +1,8 @@
+#line 1 "C:\\Users\\Vieil\\Documents\\GitHub\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER\\.vscode\\arduino.json"
+{
+    "configuration": "usbstack=arduino,debug=off,sercom4=include",
+    "board": "Seeeduino:samd:seeed_XIAO_m0",
+    "sketch": "SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER.ino",
+    "port": "COM6",
+    "output": "build"
+}

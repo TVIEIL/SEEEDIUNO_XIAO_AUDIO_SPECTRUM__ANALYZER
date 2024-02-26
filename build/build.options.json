@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..,..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..\\..,..\\..\\..\\..\\..,..\\..\\..\\..\\..,..\\..\\..\\..\\..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "Seeeduino:samd:seeed_XIAO_m0:usbstack=arduino,debug=off,sercom4=include",
+  "hardwareFolders": "C:\\Users\\Vieil\\AppData\\Local\\Arduino15\\packages,C:\\Users\\Vieil\\Documents\\Arduino\\hardware",
+  "otherLibrariesFolders": "C:\\Users\\Vieil\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "C:\\Users\\Vieil\\Documents\\GitHub\\SEEEDIUNO_XIAO_AUDIO_SPECTRUM_ANALYZER"
+}
